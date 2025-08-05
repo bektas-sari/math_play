@@ -1,0 +1,27 @@
+name: math_play
+description: A fun math learning app for kids using drag and drop mechanics.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/audio/success.mp3
+    - assets/audio/fail.mp3
+    - assets/images/
