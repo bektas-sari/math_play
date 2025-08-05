@@ -1,4 +1,4 @@
-# MathPlay - Interactive Math Learning Game
+# MathPlay - Interactive Math Learning Game (Flutter APP)
 
 MathPlay is an engaging and interactive mobile application designed to help children practice basic arithmetic operations through a fun drag-and-drop game interface. Built with Flutter, the app provides an intuitive and visually appealing experience to make learning math enjoyable.
 
