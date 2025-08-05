@@ -12,10 +12,7 @@ Built with Flutter, the app provides an intuitive and visually appealing experie
 * **Interactive Feedback**: Visual cues for correct and incorrect answers to enhance learning.
 * **Exit Button**: Center-aligned exit button for a clean and accessible user experience.
 * **Fully English Interface**: All texts and messages are in English for a universal user base.
-
-## 📱 Screenshots
-
-*(Add screenshots here when ready)*
+  
 
 ## 🚀 Getting Started
 
@@ -47,9 +44,8 @@ assets/
  ├── audio/
  │    ├── success.mp3
  │    └── fail.mp3
- └── fonts/
-      ├── ComicNeue-Bold.ttf
-      └── ComicNeue-Regular.ttf
+ └── images/
+      
 ```
 
 ## 🛠️ Key Files
@@ -102,11 +98,11 @@ This project is licensed under the MIT License.
 ## 👤 Developer
 
 **Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [www.linkedin.com/in/bektas-sari](http://www.linkedin.com/in/bektas-sari)
-ResearchGate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)<br>
+GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari)<br>
+LinkedIn: [www.linkedin.com/in/bektas-sari](http://www.linkedin.com/in/bektas-sari)<br>
+ResearchGate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)<br>
+Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)<br>
 
 ---
 
